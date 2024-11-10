@@ -16,9 +16,9 @@ Please turn to the dataset repo. [Dataset](https://drive.google.com/drive/folder
 We provide 5 datasets:
 
 
-- contracts_full.csv: The complete 470K dataset, including function name, function codes, function tokens (tokenized function codes), and docstring tokens.
-- contracts_multimodalities.csv: The deduplicated dataset with additional columns (API sequence and graph structure).
-- train.csv, test.csv, val.csv: Split data for training, testing, and validation. Split ratio: 8:1:1.
+- `contracts_full.csv`: The complete 470K dataset, including function name, function codes, function tokens (tokenized function codes), and docstring tokens.
+- `contracts_multimodalities.csv`: The deduplicated dataset with additional columns (API sequence and graph structure).
+- `train.csv`, `test.csv`, `val.csv`: Split data for training, testing, and validation. Split ratio: 8:1:1.
 
 ### Model Training
 Run `/script/run_training.sh`.
