@@ -36,7 +36,7 @@ MAX_LENGTH=128
 MARGIN=0.1
 
 # Execute the training script
-python train_with_gat.py \
+python train.py \
     --data_path $DATA_PATH \
     --save_path $SAVE_PATH \
     --batch_size $BATCH_SIZE \
