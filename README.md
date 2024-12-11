@@ -8,7 +8,9 @@ Contact: shi_research@163.com
 - torch == 1.4.0
 - transformers == 3.5.0
 - numpy == 1.18.2
-
+- pandas==1.5.1
+- numpy==1.23.5
+- scipy==1.9.3
 ### Dataset
 Please turn to the dataset repo. [Dataset](https://drive.google.com/drive/folders/1_sSYZeq8blsqrtVMuZhZdhWes_omFgNH?usp=drive_link)
 
